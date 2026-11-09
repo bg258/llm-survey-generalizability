@@ -39,10 +39,4 @@ llm-survey-analysis/
 ├── .gitignore                   Rules for excluding files from Git
 └── requirements.txt             Python dependency information
 ```
-
-
-[2] [GitHub Docs: Adding a file to a repository](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository).
-
-[3] [GitHub Docs: Ignoring files](https://docs.github.com/en/get-started/git-basics/ignoring-files).
-
 Documentation date: November 9, 2026.

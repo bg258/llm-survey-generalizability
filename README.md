@@ -1,4 +1,4 @@
-# Analyzing LLMs with Surveys
+# Analyzing LLMs with Surveys 📝
 
 See [PROSJEKTBESKRIVELSE.md](PROSJEKTBESKRIVELSE.md) for a Norwegian summary of UiO’s project description. This README describes the repository setup and a suggested workflow.
 

@@ -7,7 +7,7 @@ See [PROSJEKTBESKRIVELSE.md](PROSJEKTBESKRIVELSE.md) for a Norwegian summary of 
 This repository brings together code, experiment configurations, literature notes, and thesis writing. The following structure is intended to keep the project organized. This will make it easier to trace future analyses back to the data, code and settings used- 
 
 ## 2. Repository Structure
-
+This is how i want my repo to look like. I will make some changes afterwards to make it as the list shown.
 ```text
 llm-survey-analysis/
 ├── README.md                    Project overview and setup
